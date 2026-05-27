@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productverify",
+        "uuid": 11264760,
+        "checksum": "t1bsko"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
